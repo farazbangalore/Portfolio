@@ -11779,6 +11779,10 @@ fieldset:disabled .btn {
 border-left: 0.1rem solid #dee2e6;
 }
 
+.background-grey{
+  background-color: white;
+}
+
 @media (min-width: 576px) {
   .border-right {
     border-right: 0.1rem solid #dee2e6;
